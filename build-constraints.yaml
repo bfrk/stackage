@@ -1838,7 +1838,6 @@ packages:
         - stack-all
         - stack-clean-old
 
-        - darcs
         - idris
         - libffi
         - cairo
@@ -1884,6 +1883,9 @@ packages:
         - tasty-sugar
         - units
         - units-defs
+
+    "Ben Franksen <ben.franksen@online.de>":
+        - darcs
 
     "Renzo Carbonara <renzocarbonara@gmail.com> @k0001":
         - df1
